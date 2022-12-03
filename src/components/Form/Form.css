@@ -1,0 +1,41 @@
+input,textarea{
+    background-color: rgb(186, 185, 185);
+    width: 350px;
+    padding: 5px;
+    border: 1px solid rgb(186, 185, 185);
+    border-radius: 5px;
+}
+select{
+    background-color: rgb(186, 185, 185);
+    width: 360px;
+    padding: 5px;
+    border: 1px solid rgb(186, 185, 185);
+    border-radius: 5px;
+}
+button{
+    background-color:rgb(186, 185, 185);
+    border: none;
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    color: white;
+}
+.check{
+    width: 15px;
+}
+.main{
+    width: 23%;
+    margin: 4% auto;
+}
+.esas {
+    background-color: aliceblue;
+    width: 400px;
+    padding-right: 250px;
+    margin-left:550px;
+    margin-top: 200px;
+    border: solid rgb(167, 167, 167) 3px;
+    border-radius: 20px;
+}
